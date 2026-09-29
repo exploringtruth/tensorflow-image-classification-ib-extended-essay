@@ -624,7 +624,7 @@ efficient model choice for practical deployment. </span>
 
 ## <span class="c1">3.6  Accuracy vs Epoch Comparison</span>
 
-<img src="images/image9.png" width="450px" alt="Figure 7. Accuracy vs Epoch Scatter Plot Comparison Between Models">
+<img src="images/image9.png?v=2" width="450px" alt="Figure 7. Accuracy vs Epoch Scatter Plot Comparison Between Models">
 
 <span class="c2">Figure 7. Accuracy vs Epoch Scatter Plot Comparison
 Between Models</span>
