@@ -624,8 +624,7 @@ efficient model choice for practical deployment. </span>
 
 ## <span class="c1">3.6  Accuracy vs Epoch Comparison</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 500.00px; height: 500.000px;"><img src="images/image9.png"
-style="width: 400px; height: 700.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
+<img src="images/image9.png" width="450px" alt="Figure 7. Accuracy vs Epoch Scatter Plot Comparison Between Models">
 
 <span class="c2">Figure 7. Accuracy vs Epoch Scatter Plot Comparison
 Between Models</span>
