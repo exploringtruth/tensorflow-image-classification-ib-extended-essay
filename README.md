@@ -10,9 +10,7 @@
 
 <span class="c2"></span>
 
-<p style="font-size: 1.5em; font-weight: bold;">
-  How does the choice of neural network architecture from TensorFlow (Lightweight Models, Standard Models, Advanced Models) impact accuracy and computational efficiency in categorical image classification?
-</p>
+## How does the choice of neural network architecture from TensorFlow (Lightweight Models, Standard Models, Advanced Models) impact accuracy and computational efficiency in categorical image classification?
 
 <span class="c2"></span>
 
