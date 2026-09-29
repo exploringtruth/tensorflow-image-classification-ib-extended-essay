@@ -1,8 +1,8 @@
 <span class="c8 c14"></span>
 
-<span class="c8 c1">A comparative analysis of neural network
-architectures in TensorFlow and their impact on accuracy and
-computational efficiency in categorical image classification</span>
+<h1 style="font-size: 2.5em; font-weight: bold;">
+  A comparative analysis of neural network architectures in TensorFlow and their impact on accuracy and computational efficiency in categorical image classification
+</h1>
 
 <span class="c2"></span>
 
@@ -10,10 +10,9 @@ computational efficiency in categorical image classification</span>
 
 <span class="c2"></span>
 
-<span class="c2">How does the choice of neural network architecture from
-TensorFlow (Lightweight Models, Standard Models, Advanced Models) impact
-accuracy and computational efficiency in categorical image
-classification?</span>
+<p style="font-size: 1.5em; font-weight: bold;">
+  How does the choice of neural network architecture from TensorFlow (Lightweight Models, Standard Models, Advanced Models) impact accuracy and computational efficiency in categorical image classification?
+</p>
 
 <span class="c2"></span>
 
