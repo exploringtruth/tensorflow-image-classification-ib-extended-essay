@@ -624,12 +624,8 @@ efficient model choice for practical deployment. </span>
 
 ## <span class="c1">3.6  Accuracy vs Epoch Comparison</span>
 
-# <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 279.00px; height: 210.06px;"><img src="images/image9.png"
-style="width: 559.45px; height: 628.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 279.00px; height: 215.62px;"><img src="images/image9.png"
-style="width: 559.45px; height: 627.27px; margin-left: 0.00px; margin-top: -204.27px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
-
-# <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 279.00px; height: 206.44px;"><img src="images/image9.png"
-style="width: 559.45px; height: 628.00px; margin-left: 0.00px; margin-top: -421.56px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 500.00px; height: 500.000px;"><img src="images/image9.png"
+style="width: 200px; height: 2000.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
 
 <span class="c2">Figure 7. Accuracy vs Epoch Scatter Plot Comparison
 Between Models</span>
@@ -649,7 +645,7 @@ model, MobileNetV2, is most robust. </span>
 
 ## <span class="c1">3.7  Overfitting Assessment Between Models (Loss and Accuracy Gap vs Epoch)</span>
 
-# <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 249.33px;"><img src="images/image2.png"
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 249.33px;"><img src="images/image2.png"
 style="width: 601.70px; height: 249.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
 
 <span class="c2">Figure 8. Loss and Accuracy Gap vs Epoch Between
@@ -676,7 +672,7 @@ robust and extracts the correct features in its parameters. </span>
 
 ## <span class="c1">3.8  Training Cost vs Model Size</span>
 
-# <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 382.67px;"><img src="images/image7.png"
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 382.67px;"><img src="images/image7.png"
 style="width: 601.70px; height: 382.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" /></span>
 
 <span class="c2">Figure 9. Training Cost vs Model Size Plot Between
